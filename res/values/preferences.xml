@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AppearanceNames">
+        <item name="black">Black background, white text</item>
+        <item name="white">White background, black</item>
+    </string-array>
+    
+    <string-array name="AppearanceValues">
+        <item name="black">black</item>
+        <item name="white">white</item>
+    </string-array>
+    
+</resources>

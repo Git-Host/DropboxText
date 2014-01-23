@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/logOutMainOptionsMainMenuOption"
+          android:title="@string/logOut"
+          android:icon="@drawable/logout"/>
+    
+    <!-- 
+    <item android:id="@+id/settingsMainOptionsMainMenuOption"
+          android:title="@string/settings"
+          android:icon="@drawable/settings"/>
+    -->
+    
+    <item android:id="@+id/newTextFileOptionsMainMenuOption"
+          android:title="New Textfile"
+          android:icon="@drawable/plusswiss"/>
+    
+    <item android:id="@+id/refreshMainDocumentList"
+          android:title="Refresh"
+          android:icon="@drawable/refresh"/>
+
+</menu>
