@@ -1,6 +1,8 @@
 Android Dropbox Text Viewer and Editor for text files
 =================
 
+deprecated
+
  - lets you view your plain text files stored in dropbox
  - uses web viewer to log in
  - lets you create plain text files
